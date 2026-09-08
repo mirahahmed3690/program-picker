@@ -27,6 +27,16 @@ Default criteria (highest weight first — tuned to "criticals live in fresh cod
 | `skill_fit` | your edge per chain (Clarity rare → highest)      | 15 |
 | `payout`    | KYC-free + fast payout                            | 10 |
 
+## Install
+
+No dependencies — pure Python 3 (standard library only), nothing to pip install. Just clone:
+
+    git clone https://github.com/mirahahmed3690/program-picker
+    cd program-picker
+
+Python 3.8+ is all you need.
+
+
 ## Usage
 
 ```bash
