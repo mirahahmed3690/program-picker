@@ -1,0 +1,4 @@
+*.pyc
+__pycache__/
+programs.json
+.DS_Store

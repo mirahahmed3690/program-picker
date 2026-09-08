@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Zest Protocol V2",
+    "platform": "immunefi",
+    "chain": "clarity",
+    "audits": 4,
+    "age_days": 240,
+    "reports": 0,
+    "hunters": 5,
+    "max_reward": 100000,
+    "med_reward": 0,
+    "kyc": false,
+    "fast_payout": false
+  },
+  {
+    "name": "Some Fresh Contest",
+    "platform": "code4rena",
+    "chain": "solidity",
+    "audits": 0,
+    "age_days": 4,
+    "reports": 2,
+    "hunters": 20,
+    "max_reward": 100000,
+    "med_reward": 5000,
+    "kyc": false,
+    "fast_payout": false
+  },
+  {
+    "name": "Mature Web2 BBP",
+    "platform": "hackerone",
+    "chain": "web2",
+    "audits": 0,
+    "age_days": 900,
+    "reports": 400,
+    "hunters": 300,
+    "max_reward": 15000,
+    "med_reward": 1500,
+    "kyc": false,
+    "fast_payout": true
+  }
+]
